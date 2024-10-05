@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "In the expression 5<sup>-4</sup>, what does the number -4 represent?",
+        "options": [
+            "Base",
+            "Power",
+            "Multiplier",
+            "Divisor"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "In the expression 8<sup>5</sup>, which number is being multiplied repeatedly?",
+        "options": [
+            "6",
+            "5",
+            "8",
+            "11"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Alex used 5<sup>-3</sup> blocks on one level. How would you simplify this expression?",
+        "options": [
+            "./assests/optionImg/1.jpg",
+            "./assests/optionImg/2.jpg",
+            "./assests/optionImg/3.jpg",
+            "./assests/optionImg/4.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Which of the following equals 2<sup>-3</sup>?",
+        "options": [
+            "./assests/optionImg/5.jpg",
+            "./assests/optionImg/6.jpg",
+            "./assests/optionImg/7.jpg",
+            "./assests/optionImg/8.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "How would you simplify (-98)<sup>0</sup>?",
+        "options": [
+            "6",
+            "1",
+            "0",
+            "−6"
+        ],
+        "correct": 1
+    }
+]
